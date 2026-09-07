@@ -1,0 +1,18 @@
+# 业务数据 / 模型权重 / 训练产物 (不随仓库公开)
+data/
+data_old/
+lora_output*/
+Qwen3-32B_cache/
+model_cache/
+
+# 输出与日志
+results/
+log/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.verify_metrics.py
+.idea/
+.vscode/
